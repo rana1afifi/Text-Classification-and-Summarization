@@ -1,5 +1,5 @@
 # Text-Classification-and-Summarization
-## Description This project consists of two main modules:
+## This project consists of two main modules:
 
 1- Text Classification: This module classifies news articles into 5 categories (politics, sports, entertainment, business,tech) and uses them to learn how to classify an unseen news article to one of these categories.
 
